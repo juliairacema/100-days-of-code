@@ -1,13 +1,18 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Julia Iracema Ferreira Figueira
 
-### Dia 0: 29 de fevereiro, 2016 (Exemplo 1)
-##### (me delete ou transforme em comentário)
+### Dia 0: 09 de agosto, 2020 
+#####
 
-**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
-
-**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
-
-**Link do trabalho:** [App de calculadora](http://www.example.com)
+**Objetivos:** Durante os 100 dias aprenderei e reaprender:  
+- Git;
+- Github;
+- Comandos básicos de terminal;
+- Sobre a internet;
+- HTML e CSS;
+- Algoritmo e Estrutura de Dados
+- Javascript 
+- UX/UI design. 
+P.S: Era para começar o desafio no dia 06 mas fiquei doente.Consertei CSS, trabalhei na funcionalidade canvas para o app.
 
 ### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
 ##### (me delete ou transforme em comentário)
