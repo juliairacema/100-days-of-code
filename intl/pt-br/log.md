@@ -14,14 +14,14 @@
 - UX/UI design. 
 P.S: Era para começar o desafio no dia 06 mas fiquei doente.Consertei CSS, trabalhei na funcionalidade canvas para o app.
 
-### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
-##### (me delete ou transforme em comentário)
+### Dia 1: 10 de agosto, 2020
+##### 
 
-**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
+**Progresso do dia:** Relembrei os principais comandos do git, como criar, clonar, apontar projetos e enviar modificações dos repositórios no Github e alguns comandos de terminal no Windows.
 
-**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
+**Aprendizados:** Ainda tenho dificuldade de entender o que é o git de fato mas sei que conforme eu for praticando irei entender está ferramenta melhor.
 
-**Link do trabalho:** [App de calculadora](http://www.example.com)
+
 
 ### Day 2: 1 de março, 2016 (Exemplo 2)
 
