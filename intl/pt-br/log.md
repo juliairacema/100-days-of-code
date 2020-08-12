@@ -23,12 +23,10 @@ P.S: Era para começar o desafio no dia 06 mas fiquei doente.Consertei CSS, trab
 
 
 
-### Day 2: 1 de março, 2016 (Exemplo 2)
+### Day 2: 11 de agosto, 2020
 
-**Progresso do dia:** Eu avancei em alguns exercícios do FreeCodeCamp.
+**Progresso do dia:** Eu estou quase concluindo o capítulo 3 Trabalhando com repositório local do livro Controlando versões com Git e GitHub da Casa do Código.
 
-**Aprendizados:** Comecei a programar recentemente e me dá um sentimento muito bom quando consigo resolver um algoritmo que me desafiou durante horas.
+**Aprendizados:** Aprendi a criar arquivos ocultos no terminal (Windows), a como fazer o git ignorar arquivos, gravar arquivos no repositório, rastrear e comitar ao
+mesmo tempo, usar o git log, git diff e suas várias opções;    
 
-**Link(s) do(s) trabalho(s)**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
