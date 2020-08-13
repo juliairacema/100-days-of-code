@@ -24,9 +24,18 @@ P.S: Era para começar o desafio no dia 06 mas fiquei doente.Consertei CSS, trab
 
 
 ### Day 2: 11 de agosto, 2020
+##### 
 
 **Progresso do dia:** Eu estou quase concluindo o capítulo 3 Trabalhando com repositório local do livro Controlando versões com Git e GitHub da Casa do Código.
 
 **Aprendizados:** Aprendi a criar arquivos ocultos no terminal (Windows), a como fazer o git ignorar arquivos, gravar arquivos no repositório, rastrear e comitar ao
-mesmo tempo, usar o git log, git diff e suas várias opções;    
+mesmo tempo, usar o git log, git diff e suas várias opções; 
+   
 
+### Day 3: 12 de agosto, 2020
+##### 
+
+**Progresso do dia:** Conclui o capítulo 3 Trabalhando com repositório local e parei na metado do Capítulo 4 Trabalhando com repositório remoto do livro Controlando versões com Git e GitHub da Casa do Código.
+
+**Aprendizados:** Aprendi remover, renomear e mover arquivos do repositório pelo Git; Desfazer mudanças comitadas ou não; além de criar um repositório remoto e configurá-lo para receber commits. Também aprendi
+a renomear e remover um repositório remoto.  
