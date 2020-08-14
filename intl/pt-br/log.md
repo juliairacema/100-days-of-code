@@ -35,7 +35,19 @@ mesmo tempo, usar o git log, git diff e suas várias opções;
 ### Day 3: 12 de agosto, 2020
 ##### 
 
-**Progresso do dia:** Conclui o capítulo 3 Trabalhando com repositório local e parei na metado do Capítulo 4 Trabalhando com repositório remoto do livro Controlando versões com Git e GitHub da Casa do Código.
+**Progresso do dia:** Conclui o capítulo 3 Trabalhando com repositório local e parei na metade do Capítulo 4 Trabalhando com repositório remoto do livro Controlando versões com Git e GitHub da Casa do Código.
 
 **Aprendizados:** Aprendi remover, renomear e mover arquivos do repositório pelo Git; Desfazer mudanças comitadas ou não; além de criar um repositório remoto e configurá-lo para receber commits. Também aprendi
-a renomear e remover um repositório remoto.  
+a renomear e remover um repositório remoto. 
+ 
+
+### Day 4: 13 de agosto, 2020
+##### 
+
+**Progresso do dia:** Conclui o capítulo 4 e 5 do livro Controlando versões com Git e GitHub da Casa do Código.
+
+**Aprendizados:** Aprendi a clonar e enviar commits para um repositório remoto. Quais protocolos são suportados pelo Git. Os principais serviços de hospedagem de projetos que suportam o Git e   
+a como colaborar com projetos open source no GitHub.
+
+**Link para o trabalho **
+1. [Repositório enviado para o GitHub](https://github.com/juliairacema/moveis-ecologicos)
