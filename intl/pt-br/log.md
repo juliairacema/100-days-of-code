@@ -51,3 +51,10 @@ a como colaborar com projetos open source no GitHub.
 
 **Link para o trabalho **
 1. [Repositório enviado para o GitHub](https://github.com/juliairacema/moveis-ecologicos)
+
+### Day 5: 14 de agosto, 2020
+##### 
+
+**Progresso do dia:** Ler metado do capítulo 6 do livro Controlando versões com Git e GitHub da Casa do Código.
+
+**Aprendizados:** Aprendi a trabalhar com branch no Git.
