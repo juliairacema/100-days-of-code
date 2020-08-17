@@ -58,3 +58,10 @@ a como colaborar com projetos open source no GitHub.
 **Progresso do dia:** Ler metado do capítulo 6 do livro Controlando versões com Git e GitHub da Casa do Código.
 
 **Aprendizados:** Aprendi a trabalhar com branch no Git.
+
+### Day 6: 16 de agosto, 2020
+##### 
+
+**Progresso do dia:** Conclui o capítulo 6 e parei na seção 7.3 do capítulo 7 do livro Controlando versões com Git e GitHub da Casa do Código.
+
+**Aprendizados:** Aprendi a mesclar branch com o master no Git; a usar o comando git rebase e como enviar novas branchs para o repositório remoto no GitHub.
