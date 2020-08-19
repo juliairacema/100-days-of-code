@@ -65,3 +65,11 @@ a como colaborar com projetos open source no GitHub.
 **Progresso do dia:** Conclui o capítulo 6 e parei na seção 7.3 do capítulo 7 do livro Controlando versões com Git e GitHub da Casa do Código.
 
 **Aprendizados:** Aprendi a mesclar branch com o master no Git; a usar o comando git rebase e como enviar novas branchs para o repositório remoto no GitHub.
+
+### Day 7: 18 de agosto, 2020
+##### 
+
+**Progresso do dia:** Conclui o capítulo 7 - Trabalhando em equipe com branches remotas do livro Controlando versões com Git e GitHub da Casa do Código.
+
+**Aprendizados:** Aprendi a compartilhar branch; a obter novas branches remotas em outros repositórios, enviar commits para o repositório principal; obter os commits
+de uma branch remota; mesclar branches remotas e locais; deletar branches remotas.
