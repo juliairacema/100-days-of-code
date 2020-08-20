@@ -73,3 +73,10 @@ a como colaborar com projetos open source no GitHub.
 
 **Aprendizados:** Aprendi a compartilhar branch; a obter novas branches remotas em outros repositórios, enviar commits para o repositório principal; obter os commits
 de uma branch remota; mesclar branches remotas e locais; deletar branches remotas.
+
+### Day 8: 19 de agosto, 2020
+##### 
+
+**Progresso do dia:** Conclui os capítulos 8 e 9 do livro Controlando versões com Git e GitHub da Casa do Código.
+
+**Aprendizados:** Aprendi a usar tags e lidar com conflitos no Git.
